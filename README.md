@@ -1,4 +1,4 @@
-<h1 align="center">🐍 Python POO Exercises</h1>
+<h1 align="center">🐍 Exercícios Python POO</h1>
 
 <p align="center">
   📚 Repositório com exercícios práticos de Programação Orientada a Objetos (POO) em Python <br>
