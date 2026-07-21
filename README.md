@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre o projeto
 
-Este repositório reúne uma coleção de **17 exercícios práticos desenvolvidos em Python** com foco no aprendizado e na aplicação dos principais conceitos de **Programação Orientada a Objetos (POO)**.
+Este repositório reúne uma coleção de **30 exercícios práticos desenvolvidos em Python** com foco no aprendizado e na aplicação dos principais conceitos de **Programação Orientada a Objetos (POO)**.
 
 Os exercícios foram desenvolvidos progressivamente para praticar conceitos fundamentais da orientação a objetos, desde a criação de classes e objetos até conceitos mais avançados, como encapsulamento, herança, abstração, polimorfismo e uso de `property`, getters e setters.
 
