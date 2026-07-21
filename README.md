@@ -59,7 +59,7 @@ Trata-se de um repositório de estudos desenvolvido durante minha jornada de apr
 
 ## 📂 Exercícios
 
-O repositório contém **17 exercícios independentes**, desenvolvidos para praticar diferentes conceitos de Programação Orientada a Objetos em Python.
+O repositório contém **30 exercícios independentes**, desenvolvidos para praticar diferentes conceitos de Programação Orientada a Objetos em Python.
 
 Cada exercício possui seu próprio objetivo e implementação, permitindo estudar os conceitos individualmente e observar como eles podem ser aplicados em diferentes situações.
 
