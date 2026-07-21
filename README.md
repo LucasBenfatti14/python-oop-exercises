@@ -86,13 +86,13 @@ Cada exercício possui seu próprio objetivo e implementação, permitindo estud
 Clone o repositório:
 
 <p align="center">
-  <code>git clone https://github.com/LucasBenfatti14/python-poo-exercises.git</code>
+  <code>git clone https://github.com/LucasBenfatti14/python-oop-exercises</code>
 </p>
 
 Acesse o diretório:
 
 <p align="center">
-  <code>cd python-poo-exercises</code>
+  <code>cd python-oop-exercises</code>
 </p>
 
 Execute o exercício desejado utilizando o Python:
